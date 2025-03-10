@@ -1,0 +1,6 @@
+nombre = "juam" 
+edad = 33
+ciudad = "san francisco"
+print(F"el se llAMMA:", nombre) 
+print(F" Su edad es:", edad) 
+print(F"vive:", ciudad) 
